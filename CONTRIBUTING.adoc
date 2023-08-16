@@ -2,6 +2,8 @@
 
 In the spirit of free software, _everyone_ is encouraged to help improve this project.
 
+https://media.istockphoto.com/id/1420676204/nl/foto/portrait-of-a-royal-bengal-tiger-alert-and-staring-at-the-camera-national-animal-of-bangladesh.jpg?s=1024x1024&w=is&k=20&c=knGFKRNG1wc0yPBN7Ru68umS6lNEIMlIPa4Gg2wBgeU=
+
 To contribute code, simply fork the project on GitHub, hack away and send a pull request with your proposed changes.
 Feel free to use the https://github.com/asciidoctor/atom-lasciidoc-preview/issues[issue tracker] to provide feedback or suggestions in other ways.
 
